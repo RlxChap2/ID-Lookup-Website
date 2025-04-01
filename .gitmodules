@@ -1,0 +1,3 @@
+[submodule "ID-Lookup-Server"]
+	path = ID-Lookup-Server
+	url = https://github.com/RlxChap2/ID-Lookup-Server.git
